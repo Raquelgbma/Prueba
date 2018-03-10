@@ -1,1 +1,1 @@
-# Prueba
+Random number generator
